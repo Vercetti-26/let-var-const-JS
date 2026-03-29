@@ -1,4 +1,3 @@
-text
 # var vs let vs const — The JavaScript Variable Bible
 
 > A beautifully designed, single-page deep dive into JavaScript's three variable keywords — built with pure HTML & CSS, zero dependencies.
@@ -45,7 +44,7 @@ text
 
 No build tools, no npm, no dependencies. Just open the file:
 
-```bash
+
 git clone https://github.com/Vercetti-26/let-var-const-JS.git
 cd let-var-const-JS
 open index.html   # or just double-click it
